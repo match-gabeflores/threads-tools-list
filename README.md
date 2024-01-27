@@ -2,6 +2,8 @@
 
 * See also: [Reddit Threads Wiki](https://www.reddit.com/r/ThreadsApp/wiki/index/)
 
+Any additions? Send me a Pull Request or [create an issue](https://github.com/match-gabeflores/threads-tools-list/issues/new)
+
 # Users
 
 **Devs:**
