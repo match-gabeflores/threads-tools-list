@@ -1,6 +1,7 @@
 **List of Threads resources, tools, and links**
 
-* See also: https://www.reddit.com/r/ThreadsApp/wiki/index/
+* See also: [Reddit Threads Wiki](https://www.reddit.com/r/ThreadsApp/wiki/index/)
+
 # Users
 
 **Devs:**
@@ -16,24 +17,31 @@
 **Other users:**
 
 These users don't work for Threads but have Threads updates frequently
-* @chris
-* @alex193a - Reverse engineer on the Threads App with many scoops
-* @mattnavarra
-* @lucaspuskaric
-* @w3stfa11 
+* [@alex193a](https://www.threads.net/@alex193a) - Reverse engineer on the Threads App with many scoops
+* [@chris](https://www.threads.net/@chris)
+* [@mattnavarra](https://www.threads.net/@mattnavarra)
+* [@lucaspuskaric](https://www.threads.net/@lucaspuskaric)
+* [@hi.nixson](https://www.threads.net/@hi.nixson) - fun Threads concepts/ideas
+* [@w3stfa11](https://www.threads.net/@w3stfa11)
 
 
-  
 # Resources
 
 
 **News:** 
+
+To find the latest feature updates and general news, check here and the above developer accounts
 
 * [Reddit Threads App News tag](https://www.reddit.com/r/ThreadsApp/?f=flair_name%3A%22App%20News%22)
 * [The Verge - Threads](https://www.theverge.com/threads)
 * [TechCrunch - Threads Tag](https://techcrunch.com/tag/threads/)
 * [Google News - Threads App Search](https://news.google.com/search?q=threads%20app%20when%3A7d&hl=en-US&gl=US&ceid=US%3Aen)
 
+**Support**
+* In apps: Shake on your phone to submit a support message or Threads bug
+* On web: click on top right hand menu and click Report a Problem (they do read these!)
+* Post on [Reddit Threads](https://www.reddit.com/r/ThreadsApp/) and mention the platform, preferably with screenshot or video
+* Post on Threads using Threads Bug Report topic tag (preferably with screenshot or video) and tag the devs (usually @0xjessel (general), @camroth (ios), @richz (android), @marius.schulz (web))
 
 **Analytics and Usage:**
 * [Semrush Threads - website](https://www.semrush.com/website/threads.net/overview/)
@@ -54,7 +62,7 @@ List of Threads app tools for [Threads app](http://www.threads.net) by Instagram
 
 Gathered from this [Reddit thread](https://www.reddit.com/r/ThreadsApp/comments/16pnns3/list_of_threads_tools_and_extensions/).
 
-* [GitHub Threads Topics](https://github.com/topics/threads-app) \- various tools or utility code here
+
 * [Threaditor - Bookmark Tool and Drafts](https://www.threads.net/@zaccomode/post/Czzgy21BWNK)
 * [Interweave Social](https://www.threads.net/@lucaspuskaric/post/CyEdlempolb) \- analytics tool
 * [Threads Sync](https://chromewebstore.google.com/detail/threads-sync/jjpemkijfelmdhanbfiloljaokgddahi?hl=en) \- chrome extension to Follow the same people on Threads that you do on Twitter.
@@ -81,3 +89,11 @@ Gathered from this [Reddit thread](https://www.reddit.com/r/ThreadsApp/comments/
 * [Followers Exporter for Threads](https://chromewebstore.google.com/detail/followers-exporter-for-th/nhlcgpbandlddfdmabpjinolcgfbmkac) \- export followers to csv
 * [Chronological Threads](https://chromewebstore.google.com/detail/chronological-threads/mkgdmjeakaoncmebcpcjgcakglabghdd) \-  Keeps threads.com from switching to the algorithmic view
 * [Threads Post](https://chromewebstore.google.com/detail/threads-post/aafmmgljipdbcbkiaagehglpcjgdenca) \-  seamless way to curate and manage multiple posts for the same Thread
+* * [GitHub Threads Topics](https://github.com/topics/threads-app) \- various tools or utility code here (many antiquated or don't work)
+
+
+# Miscellaneous resources
+
+* Tech Threads discord
+* Tech Threads store
+* NBA Threads store
