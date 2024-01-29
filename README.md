@@ -54,48 +54,45 @@ To find the latest feature updates and general news, check here and the above de
 * [SimilarWeb Threads.net - website](https://www.similarweb.com/website/threads.net/#traffic)
 * [AppBrain](https://www.appbrain.com/app/threads-an-instagram-app/com.instagram.barcelona)
 * [Google Trends](https://trends.google.com/trends/explore?date=today%201-m&geo=US&q=threads%20app)
+* [Threads User Count (Quiver)](https://www.quiverquant.com/threadstracker/) \- graph of user signups
 
 **Technical/Blog articles**
 * [How Meta built Threads in 5 months](https://engineering.fb.com/2023/11/06/android/how-meta-built-threads-in-5-months/)
 
 
-# threads-tools-list
-List of Threads app tools for [Threads app](http://www.threads.net) by Instagram.
+# Web browser Chrome extensions:
 
-Gathered from this [Reddit thread](https://www.reddit.com/r/ThreadsApp/comments/16pnns3/list_of_threads_tools_and_extensions/).
-
-
-* [Threaditor - Bookmark Tool and Drafts](https://www.threads.net/@zaccomode/post/Czzgy21BWNK)
-* [Interweave Social](https://www.threads.net/@lucaspuskaric/post/CyEdlempolb) \- analytics tool
 * [Threads Sync](https://chromewebstore.google.com/detail/threads-sync/jjpemkijfelmdhanbfiloljaokgddahi?hl=en) \- chrome extension to Follow the same people on Threads that you do on Twitter.
 * [Threads Twitter List](https://chromewebstore.google.com/detail/threads-lists/ikcondoimaicdklohocliopmdlfgoohn) \- workaround to check your followers from Twitter on Threads
+* [Theme & Color Changer for Threads](https://chromewebstore.google.com/detail/theme-color-changer-for-t/mcopkfempldfeokdlleknmnngdbbhega)
+* [Comment Generator for Threads](https://chromewebstore.google.com/detail/comment-generator-for-thr/fmdbmdhchaiafcaaaemmdeehgbkdekfe)
+* [Trovy for Threads](https://chromewebstore.google.com/detail/kmfcdcfjhkhcecnkmeiaifgecchcemli) \-  bookmarks, other features
+* [Default to Following Feed](https://chromewebstore.google.com/detail/threads-default-to-follow/medfppjhhdlgghdgkielmcnhacglofkn) \- use the chronological feed by default
+* [Followers Exporter for Threads](https://chromewebstore.google.com/detail/followers-exporter-for-th/nhlcgpbandlddfdmabpjinolcgfbmkac) \- export followers to csv
+* [Threads Post](https://chromewebstore.google.com/detail/threads-post/aafmmgljipdbcbkiaagehglpcjgdenca) \-  seamless way to curate and manage multiple posts for the same Thread
+* [Video Downloader for Threads](https://chromewebstore.google.com/detail/video-downloader-for-thre/piicmonajlgmfgiadbgfeccfegodgnjm)
+
+&#x200B;
+
+# Tools
+
+* [Interweave Social](https://www.threads.net/@lucaspuskaric/post/CyEdlempolb) \- analytics tool
+* [Threaditor - Bookmark Tool and Drafts](https://www.threads.net/@zaccomode/post/Czzgy21BWNK)
 * [Bolt a Thread](https://boltathread.com) \- Schedule posts
-* [ReThreads](https://rethreads.pro/) \- turn a thread into an image post
 * [threads-post.web.app](https://threads-post.web.app/)  \- Draft tool
-* [Threads User Count (Quiver)](https://www.quiverquant.com/threadstracker/) \- graph of user signups
-* [Create Panorama carousel photos](https://kotobuki.shuttleapp.rs/)
 * [OneUp Threads Schedule Post](https://oneup.crisp.help/en-us/article/does-oneup-support-the-new-threads-by-instagram-app-kqdj11/) \- schedule your posts - will send a notification
-* [Series](https://techcrunch.com/2023/08/16/photo-layout-app-series-makes-it-easier-to-post-your-panos-to-threads/) Carousel creator - makes it easier to post your panos to Threads
 * [Most Followed users](https://spoolsapp.net/analytics/most-followed) \- list
-* [Threaditor.net](https://threaditor.net/) \- draft posts with text styling
-* [Google Trends](https://trends.google.com/trends/explore?date=today%201-m&geo=US&q=threads%20app)
 * [iOS shortcut to download media](https://www.reddit.com/r/ThreadsApp/comments/187ygrc/i_made_a_shortcut_to_download_threads_media_on_ios/)
 * Many photo and video downloaders out there via websites or chrome extensions.
    * web - [https://www.threadown.app/](https://www.threadown.app/)
-   * extension - [Video Downloader for Threads](https://chromewebstore.google.com/detail/video-downloader-for-thre/piicmonajlgmfgiadbgfeccfegodgnjm)
-* [Theme & Color Changer for Threads](https://chromewebstore.google.com/detail/theme-color-changer-for-t/mcopkfempldfeokdlleknmnngdbbhega)
-* [Comment Generator for Threads](https://chromewebstore.google.com/detail/comment-generator-for-thr/fmdbmdhchaiafcaaaemmdeehgbkdekfe)
 * [vxThreads](https://github.com/everettsouthwick/vxThreads) \-  fixes threads embeds for discord, telegram. etc
-* [Trovy for Threads](https://chromewebstore.google.com/detail/kmfcdcfjhkhcecnkmeiaifgecchcemli) \-  Manage your your content creation and Track your Threads stats
 * [Threads Circles](https://threadscircles.com/) \- shows who you interact with the most
-* [Followers Exporter for Threads](https://chromewebstore.google.com/detail/followers-exporter-for-th/nhlcgpbandlddfdmabpjinolcgfbmkac) \- export followers to csv
-* [Chronological Threads](https://chromewebstore.google.com/detail/chronological-threads/mkgdmjeakaoncmebcpcjgcakglabghdd) \-  Keeps threads.com from switching to the algorithmic view
-* [Threads Post](https://chromewebstore.google.com/detail/threads-post/aafmmgljipdbcbkiaagehglpcjgdenca) \-  seamless way to curate and manage multiple posts for the same Thread
-* * [GitHub Threads Topics](https://github.com/topics/threads-app) \- various tools or utility code here (many antiquated or don't work)
-
+* [Series](https://techcrunch.com/2023/08/16/photo-layout-app-series-makes-it-easier-to-post-your-panos-to-threads/) Carousel creator - makes it easier to post your panos to Threads
+* [Thread Embed](https://lucaspuskaric.com/threadembed) \- easily embed a Share to Threads button to your website
+* [UserScripts for Greasemonkey/Tampermonkey](https://greasyfork.org/en/scripts/by-site/threads.net)
+* [GitHub Threads Topics](https://github.com/topics/threads-app) \- various tools or utility code here (many antiquated or don't work)
 
 # Miscellaneous resources
 
-* Tech Threads discord
-* Tech Threads store
-* NBA Threads store
+* [Tech Threads discord](https://discord.com/invite/techthreads)
+* [NBA Threads store](https://www.threads.net/@nba_threads/post/C2LCNYcPUJg)
